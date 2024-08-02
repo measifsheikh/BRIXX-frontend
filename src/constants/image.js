@@ -27,7 +27,6 @@ import s22 from "../assets/images/s22.png"
 import s23 from "../assets/images/s23.png"
 import s24 from "../assets/images/s24.png"
 import s25 from "../assets/images/s25.png"
-import logo from "../assets/images/logo.png"
 import Video from "../assets/images/collage_video.mp4"
 const images = {
     BG,
