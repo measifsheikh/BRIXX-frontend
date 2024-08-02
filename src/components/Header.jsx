@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import { RiMenuFoldLine } from "react-icons/ri";
 import { MdClose } from "react-icons/md";
 import { NavLink, useLocation } from 'react-router-dom';
+import images from '../constants/image';
 
 const NavItemInfo = [
     {
