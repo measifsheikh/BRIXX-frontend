@@ -12,7 +12,7 @@ module.exports = {
         dark: {
           light: "#5A7184",
           hard: "#0D2436",
-          soft: "#183B56",
+          soft: "#2D2A3D",
         },
         fontFamily: {
           openSans: ["Open Sans", "sans-serif"],
